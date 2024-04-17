@@ -1,8 +1,8 @@
-<<<<<<< Updated upstream
+
 questo file è stato creato sul branch main
-=======
+le modifiche sono state effettuate sul branch dev
+
 questo file è stato creato sul branch main
 le modifiche sono state effettuate sul branch dev
 eco il mio prime conflitto!
->>>>>>> Stashed changes
-gfdgfdgfdgfg
+
